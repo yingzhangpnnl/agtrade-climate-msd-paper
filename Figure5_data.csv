@@ -1,0 +1,130 @@
+# Regional price paid for consumption (2015$/kg),,,,,
+Scenario,region,type,crop,year,value
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2015,0.100364
+RF,Brazil,Regional Price Paid for Consumption,corn,2015,0.0470941
+RF,Middle East,Regional Price Paid for Consumption,corn,2015,0.0646783
+RF,USA,Regional Price Paid for Consumption,corn,2015,0.062776
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2020,0.103165
+RF,Brazil,Regional Price Paid for Consumption,corn,2020,0.0456774
+RF,Middle East,Regional Price Paid for Consumption,corn,2020,0.0649539
+RF,USA,Regional Price Paid for Consumption,corn,2020,0.0620115
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2025,0.105942
+RF,Brazil,Regional Price Paid for Consumption,corn,2025,0.0448882
+RF,Middle East,Regional Price Paid for Consumption,corn,2025,0.0647315
+RF,USA,Regional Price Paid for Consumption,corn,2025,0.062126
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2030,0.109306
+RF,Brazil,Regional Price Paid for Consumption,corn,2030,0.0441613
+RF,Middle East,Regional Price Paid for Consumption,corn,2030,0.0644264
+RF,USA,Regional Price Paid for Consumption,corn,2030,0.0620142
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2035,0.111802
+RF,Brazil,Regional Price Paid for Consumption,corn,2035,0.0442022
+RF,Middle East,Regional Price Paid for Consumption,corn,2035,0.0649253
+RF,USA,Regional Price Paid for Consumption,corn,2035,0.062209
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2040,0.113242
+RF,Brazil,Regional Price Paid for Consumption,corn,2040,0.044193
+RF,Middle East,Regional Price Paid for Consumption,corn,2040,0.0652733
+RF,USA,Regional Price Paid for Consumption,corn,2040,0.0621727
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2045,0.114893
+RF,Brazil,Regional Price Paid for Consumption,corn,2045,0.0444115
+RF,Middle East,Regional Price Paid for Consumption,corn,2045,0.0659961
+RF,USA,Regional Price Paid for Consumption,corn,2045,0.0627889
+RF,Africa_Western,Regional Price Paid for Consumption,corn,2050,0.116543
+RF,Brazil,Regional Price Paid for Consumption,corn,2050,0.0446003
+RF,Middle East,Regional Price Paid for Consumption,corn,2050,0.0665619
+RF,USA,Regional Price Paid for Consumption,corn,2050,0.0635681
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2015,0.100364
+CC,Brazil,Regional Price Paid for Consumption,corn,2015,0.0470941
+CC,Middle East,Regional Price Paid for Consumption,corn,2015,0.0646783
+CC,USA,Regional Price Paid for Consumption,corn,2015,0.062776
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2020,0.105065
+CC,Brazil,Regional Price Paid for Consumption,corn,2020,0.0463958
+CC,Middle East,Regional Price Paid for Consumption,corn,2020,0.0661923
+CC,USA,Regional Price Paid for Consumption,corn,2020,0.0639238
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2025,0.108568
+CC,Brazil,Regional Price Paid for Consumption,corn,2025,0.0457728
+CC,Middle East,Regional Price Paid for Consumption,corn,2025,0.0662041
+CC,USA,Regional Price Paid for Consumption,corn,2025,0.0641078
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2030,0.112621
+CC,Brazil,Regional Price Paid for Consumption,corn,2030,0.0452615
+CC,Middle East,Regional Price Paid for Consumption,corn,2030,0.0662779
+CC,USA,Regional Price Paid for Consumption,corn,2030,0.0648963
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2035,0.115891
+CC,Brazil,Regional Price Paid for Consumption,corn,2035,0.0455206
+CC,Middle East,Regional Price Paid for Consumption,corn,2035,0.067144
+CC,USA,Regional Price Paid for Consumption,corn,2035,0.0663096
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2040,0.117967
+CC,Brazil,Regional Price Paid for Consumption,corn,2040,0.0457454
+CC,Middle East,Regional Price Paid for Consumption,corn,2040,0.0678172
+CC,USA,Regional Price Paid for Consumption,corn,2040,0.0668675
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2045,0.121052
+CC,Brazil,Regional Price Paid for Consumption,corn,2045,0.0463558
+CC,Middle East,Regional Price Paid for Consumption,corn,2045,0.0691008
+CC,USA,Regional Price Paid for Consumption,corn,2045,0.0678223
+CC,Africa_Western,Regional Price Paid for Consumption,corn,2050,0.123873
+CC,Brazil,Regional Price Paid for Consumption,corn,2050,0.046948
+CC,Middle East,Regional Price Paid for Consumption,corn,2050,0.0702838
+CC,USA,Regional Price Paid for Consumption,corn,2050,0.0700149
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2015,0.100364
+SS,Brazil,Regional Price Paid for Consumption,corn,2015,0.0470941
+SS,Middle East,Regional Price Paid for Consumption,corn,2015,0.0646783
+SS,USA,Regional Price Paid for Consumption,corn,2015,0.062776
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2020,0.103165
+SS,Brazil,Regional Price Paid for Consumption,corn,2020,0.0456774
+SS,Middle East,Regional Price Paid for Consumption,corn,2020,0.0649539
+SS,USA,Regional Price Paid for Consumption,corn,2020,0.0620115
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2025,0.115292
+SS,Brazil,Regional Price Paid for Consumption,corn,2025,0.0429227
+SS,Middle East,Regional Price Paid for Consumption,corn,2025,0.128327
+SS,USA,Regional Price Paid for Consumption,corn,2025,0.0594372
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2030,0.119738
+SS,Brazil,Regional Price Paid for Consumption,corn,2030,0.0418857
+SS,Middle East,Regional Price Paid for Consumption,corn,2030,0.131553
+SS,USA,Regional Price Paid for Consumption,corn,2030,0.0592367
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2035,0.122018
+SS,Brazil,Regional Price Paid for Consumption,corn,2035,0.0416967
+SS,Middle East,Regional Price Paid for Consumption,corn,2035,0.130415
+SS,USA,Regional Price Paid for Consumption,corn,2035,0.059324
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2040,0.123089
+SS,Brazil,Regional Price Paid for Consumption,corn,2040,0.0413787
+SS,Middle East,Regional Price Paid for Consumption,corn,2040,0.128847
+SS,USA,Regional Price Paid for Consumption,corn,2040,0.0591721
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2045,0.124506
+SS,Brazil,Regional Price Paid for Consumption,corn,2045,0.0411608
+SS,Middle East,Regional Price Paid for Consumption,corn,2045,0.128055
+SS,USA,Regional Price Paid for Consumption,corn,2045,0.0597453
+SS,Africa_Western,Regional Price Paid for Consumption,corn,2050,0.126086
+SS,Brazil,Regional Price Paid for Consumption,corn,2050,0.0409461
+SS,Middle East,Regional Price Paid for Consumption,corn,2050,0.127474
+SS,USA,Regional Price Paid for Consumption,corn,2050,0.0605583
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2015,0.100364
+SC,Brazil,Regional Price Paid for Consumption,corn,2015,0.0470941
+SC,Middle East,Regional Price Paid for Consumption,corn,2015,0.0646783
+SC,USA,Regional Price Paid for Consumption,corn,2015,0.062776
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2020,0.105065
+SC,Brazil,Regional Price Paid for Consumption,corn,2020,0.0463958
+SC,Middle East,Regional Price Paid for Consumption,corn,2020,0.0661923
+SC,USA,Regional Price Paid for Consumption,corn,2020,0.0639238
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2025,0.11914
+SC,Brazil,Regional Price Paid for Consumption,corn,2025,0.0436965
+SC,Middle East,Regional Price Paid for Consumption,corn,2025,0.130307
+SC,USA,Regional Price Paid for Consumption,corn,2025,0.0613411
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2030,0.124022
+SC,Brazil,Regional Price Paid for Consumption,corn,2030,0.0428927
+SC,Middle East,Regional Price Paid for Consumption,corn,2030,0.133336
+SC,USA,Regional Price Paid for Consumption,corn,2030,0.0620534
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2035,0.126972
+SC,Brazil,Regional Price Paid for Consumption,corn,2035,0.0429082
+SC,Middle East,Regional Price Paid for Consumption,corn,2035,0.132508
+SC,USA,Regional Price Paid for Consumption,corn,2035,0.0634038
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2040,0.128813
+SC,Brazil,Regional Price Paid for Consumption,corn,2040,0.0427774
+SC,Middle East,Regional Price Paid for Consumption,corn,2040,0.131724
+SC,USA,Regional Price Paid for Consumption,corn,2040,0.0638335
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2045,0.131934
+SC,Brazil,Regional Price Paid for Consumption,corn,2045,0.0429144
+SC,Middle East,Regional Price Paid for Consumption,corn,2045,0.131954
+SC,USA,Regional Price Paid for Consumption,corn,2045,0.0646843
+SC,Africa_Western,Regional Price Paid for Consumption,corn,2050,0.134809
+SC,Brazil,Regional Price Paid for Consumption,corn,2050,0.0429985
+SC,Middle East,Regional Price Paid for Consumption,corn,2050,0.132414
+SC,USA,Regional Price Paid for Consumption,corn,2050,0.0669421
