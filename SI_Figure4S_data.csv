@@ -1,0 +1,322 @@
+"# Regional price paid for consumption, domestic producer price excluding the cereal self-sufficiency subsidy, and the price of the cereal self-sufficiency credit (2015$/kg)",,,,
+Scenario,region,type,year,value
+RF,Africa_Western,Domestic Producer Price before Subsidy,2015,0.1012
+RF,Africa_Western,Regional Price Paid for Consumption,2015,0.100364
+RF,Brazil,Domestic Producer Price before Subsidy,2015,0.047
+RF,Brazil,Regional Price Paid for Consumption,2015,0.0470941
+RF,Middle East,Domestic Producer Price before Subsidy,2015,0.0975
+RF,Middle East,Regional Price Paid for Consumption,2015,0.0646783
+RF,USA,Domestic Producer Price before Subsidy,2015,0.0628
+RF,USA,Regional Price Paid for Consumption,2015,0.062776
+RF,Africa_Western,Domestic Producer Price before Subsidy,2020,0.104114
+RF,Africa_Western,Regional Price Paid for Consumption,2020,0.103165
+RF,Brazil,Domestic Producer Price before Subsidy,2020,0.0455741
+RF,Brazil,Regional Price Paid for Consumption,2020,0.0456774
+RF,Middle East,Domestic Producer Price before Subsidy,2020,0.0990303
+RF,Middle East,Regional Price Paid for Consumption,2020,0.0649539
+RF,USA,Domestic Producer Price before Subsidy,2020,0.0620316
+RF,USA,Regional Price Paid for Consumption,2020,0.0620115
+RF,Africa_Western,Domestic Producer Price before Subsidy,2025,0.107046
+RF,Africa_Western,Regional Price Paid for Consumption,2025,0.105942
+RF,Brazil,Domestic Producer Price before Subsidy,2025,0.0447825
+RF,Brazil,Regional Price Paid for Consumption,2025,0.0448882
+RF,Middle East,Domestic Producer Price before Subsidy,2025,0.101236
+RF,Middle East,Regional Price Paid for Consumption,2025,0.0647315
+RF,USA,Domestic Producer Price before Subsidy,2025,0.0621471
+RF,USA,Regional Price Paid for Consumption,2025,0.062126
+RF,Africa_Western,Domestic Producer Price before Subsidy,2030,0.110623
+RF,Africa_Western,Regional Price Paid for Consumption,2030,0.109306
+RF,Brazil,Domestic Producer Price before Subsidy,2030,0.0440541
+RF,Brazil,Regional Price Paid for Consumption,2030,0.0441613
+RF,Middle East,Domestic Producer Price before Subsidy,2030,0.104146
+RF,Middle East,Regional Price Paid for Consumption,2030,0.0644264
+RF,USA,Domestic Producer Price before Subsidy,2030,0.0620357
+RF,USA,Regional Price Paid for Consumption,2030,0.0620142
+RF,Africa_Western,Domestic Producer Price before Subsidy,2035,0.11323
+RF,Africa_Western,Regional Price Paid for Consumption,2035,0.111802
+RF,Brazil,Domestic Producer Price before Subsidy,2035,0.0440931
+RF,Brazil,Regional Price Paid for Consumption,2035,0.0442022
+RF,Middle East,Domestic Producer Price before Subsidy,2035,0.106646
+RF,Middle East,Regional Price Paid for Consumption,2035,0.0649253
+RF,USA,Domestic Producer Price before Subsidy,2035,0.0622293
+RF,USA,Regional Price Paid for Consumption,2035,0.062209
+RF,Africa_Western,Domestic Producer Price before Subsidy,2040,0.114728
+RF,Africa_Western,Regional Price Paid for Consumption,2040,0.113242
+RF,Brazil,Domestic Producer Price before Subsidy,2040,0.0440825
+RF,Brazil,Regional Price Paid for Consumption,2040,0.044193
+RF,Middle East,Domestic Producer Price before Subsidy,2040,0.108861
+RF,Middle East,Regional Price Paid for Consumption,2040,0.0652733
+RF,USA,Domestic Producer Price before Subsidy,2040,0.0621916
+RF,USA,Regional Price Paid for Consumption,2040,0.0621727
+RF,Africa_Western,Domestic Producer Price before Subsidy,2045,0.116417
+RF,Africa_Western,Regional Price Paid for Consumption,2045,0.114893
+RF,Brazil,Domestic Producer Price before Subsidy,2045,0.044299
+RF,Brazil,Regional Price Paid for Consumption,2045,0.0444115
+RF,Middle East,Domestic Producer Price before Subsidy,2045,0.111564
+RF,Middle East,Regional Price Paid for Consumption,2045,0.0659961
+RF,USA,Domestic Producer Price before Subsidy,2045,0.0628075
+RF,USA,Regional Price Paid for Consumption,2045,0.0627889
+RF,Africa_Western,Domestic Producer Price before Subsidy,2050,0.118121
+RF,Africa_Western,Regional Price Paid for Consumption,2050,0.116543
+RF,Brazil,Domestic Producer Price before Subsidy,2050,0.0444863
+RF,Brazil,Regional Price Paid for Consumption,2050,0.0446003
+RF,Middle East,Domestic Producer Price before Subsidy,2050,0.113658
+RF,Middle East,Regional Price Paid for Consumption,2050,0.0665619
+RF,USA,Domestic Producer Price before Subsidy,2050,0.0635877
+RF,USA,Regional Price Paid for Consumption,2050,0.0635681
+CC,Africa_Western,Domestic Producer Price before Subsidy,2015,0.1012
+CC,Africa_Western,Regional Price Paid for Consumption,2015,0.100364
+CC,Brazil,Domestic Producer Price before Subsidy,2015,0.047
+CC,Brazil,Regional Price Paid for Consumption,2015,0.0470941
+CC,Middle East,Domestic Producer Price before Subsidy,2015,0.0975
+CC,Middle East,Regional Price Paid for Consumption,2015,0.0646783
+CC,USA,Domestic Producer Price before Subsidy,2015,0.0628
+CC,USA,Regional Price Paid for Consumption,2015,0.062776
+CC,Africa_Western,Domestic Producer Price before Subsidy,2020,0.106029
+CC,Africa_Western,Regional Price Paid for Consumption,2020,0.105065
+CC,Brazil,Domestic Producer Price before Subsidy,2020,0.0462898
+CC,Brazil,Regional Price Paid for Consumption,2020,0.0463958
+CC,Middle East,Domestic Producer Price before Subsidy,2020,0.101493
+CC,Middle East,Regional Price Paid for Consumption,2020,0.0661923
+CC,USA,Domestic Producer Price before Subsidy,2020,0.063947
+CC,USA,Regional Price Paid for Consumption,2020,0.0639238
+CC,Africa_Western,Domestic Producer Price before Subsidy,2025,0.109707
+CC,Africa_Western,Regional Price Paid for Consumption,2025,0.108568
+CC,Brazil,Domestic Producer Price before Subsidy,2025,0.0456641
+CC,Brazil,Regional Price Paid for Consumption,2025,0.0457728
+CC,Middle East,Domestic Producer Price before Subsidy,2025,0.10471
+CC,Middle East,Regional Price Paid for Consumption,2025,0.0662041
+CC,USA,Domestic Producer Price before Subsidy,2025,0.0641316
+CC,USA,Regional Price Paid for Consumption,2025,0.0641078
+CC,Africa_Western,Domestic Producer Price before Subsidy,2030,0.113983
+CC,Africa_Western,Regional Price Paid for Consumption,2030,0.112621
+CC,Brazil,Domestic Producer Price before Subsidy,2030,0.0451505
+CC,Brazil,Regional Price Paid for Consumption,2030,0.0452615
+CC,Middle East,Domestic Producer Price before Subsidy,2030,0.108498
+CC,Middle East,Regional Price Paid for Consumption,2030,0.0662779
+CC,USA,Domestic Producer Price before Subsidy,2030,0.0649227
+CC,USA,Regional Price Paid for Consumption,2030,0.0648963
+CC,Africa_Western,Domestic Producer Price before Subsidy,2035,0.11738
+CC,Africa_Western,Regional Price Paid for Consumption,2035,0.115891
+CC,Brazil,Domestic Producer Price before Subsidy,2035,0.0454071
+CC,Brazil,Regional Price Paid for Consumption,2035,0.0455206
+CC,Middle East,Domestic Producer Price before Subsidy,2035,0.112038
+CC,Middle East,Regional Price Paid for Consumption,2035,0.067144
+CC,USA,Domestic Producer Price before Subsidy,2035,0.0663385
+CC,USA,Regional Price Paid for Consumption,2035,0.0663096
+CC,Africa_Western,Domestic Producer Price before Subsidy,2040,0.119524
+CC,Africa_Western,Regional Price Paid for Consumption,2040,0.117967
+CC,Brazil,Domestic Producer Price before Subsidy,2040,0.04563
+CC,Brazil,Regional Price Paid for Consumption,2040,0.0457454
+CC,Middle East,Domestic Producer Price before Subsidy,2040,0.115391
+CC,Middle East,Regional Price Paid for Consumption,2040,0.0678172
+CC,USA,Domestic Producer Price before Subsidy,2040,0.0668959
+CC,USA,Regional Price Paid for Consumption,2040,0.0668675
+CC,Africa_Western,Domestic Producer Price before Subsidy,2045,0.122688
+CC,Africa_Western,Regional Price Paid for Consumption,2045,0.121052
+CC,Brazil,Domestic Producer Price before Subsidy,2045,0.0462374
+CC,Brazil,Regional Price Paid for Consumption,2045,0.0463558
+CC,Middle East,Domestic Producer Price before Subsidy,2045,0.119688
+CC,Middle East,Regional Price Paid for Consumption,2045,0.0691008
+CC,USA,Domestic Producer Price before Subsidy,2045,0.0678496
+CC,USA,Regional Price Paid for Consumption,2045,0.0678223
+CC,Africa_Western,Domestic Producer Price before Subsidy,2050,0.125582
+CC,Africa_Western,Regional Price Paid for Consumption,2050,0.123873
+CC,Brazil,Domestic Producer Price before Subsidy,2050,0.046827
+CC,Brazil,Regional Price Paid for Consumption,2050,0.046948
+CC,Middle East,Domestic Producer Price before Subsidy,2050,0.123567
+CC,Middle East,Regional Price Paid for Consumption,2050,0.0702838
+CC,USA,Domestic Producer Price before Subsidy,2050,0.0700469
+CC,USA,Regional Price Paid for Consumption,2050,0.0700149
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SS,Africa_Western,Domestic Producer Price before Subsidy,2015,0.1012
+SS,Africa_Western,Regional Price Paid for Consumption,2015,0.100364
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SS,Brazil,Domestic Producer Price before Subsidy,2015,0.047
+SS,Brazil,Regional Price Paid for Consumption,2015,0.0470941
+SS,Middle East,Domestic Producer Price before Subsidy,2015,0.0975
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SS,Middle East,Regional Price Paid for Consumption,2015,0.0646783
+SS,USA,Domestic Producer Price before Subsidy,2015,0.0628
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SS,USA,Regional Price Paid for Consumption,2015,0.062776
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SS,Africa_Western,Domestic Producer Price before Subsidy,2020,0.104114
+SS,Africa_Western,Regional Price Paid for Consumption,2020,0.103165
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SS,Brazil,Domestic Producer Price before Subsidy,2020,0.0455741
+SS,Brazil,Regional Price Paid for Consumption,2020,0.0456774
+SS,Middle East,Domestic Producer Price before Subsidy,2020,0.0990303
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SS,Middle East,Regional Price Paid for Consumption,2020,0.0649539
+SS,USA,Domestic Producer Price before Subsidy,2020,0.0620316
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SS,USA,Regional Price Paid for Consumption,2020,0.0620115
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2025,0.0988821
+SS,Africa_Western,Domestic Producer Price before Subsidy,2025,0.0163981
+SS,Africa_Western,Regional Price Paid for Consumption,2025,0.115292
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2025,0.0224352
+SS,Brazil,Domestic Producer Price before Subsidy,2025,0.0204738
+SS,Brazil,Regional Price Paid for Consumption,2025,0.0429227
+SS,Middle East,Domestic Producer Price before Subsidy,2025,0.0183649
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2025,0.108963
+SS,Middle East,Regional Price Paid for Consumption,2025,0.128327
+SS,USA,Domestic Producer Price before Subsidy,2025,0.0348147
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2025,0.0246797
+SS,USA,Regional Price Paid for Consumption,2025,0.0594372
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2030,0.109171
+SS,Africa_Western,Domestic Producer Price before Subsidy,2030,0.0105597
+SS,Africa_Western,Regional Price Paid for Consumption,2030,0.119738
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2030,0.0283521
+SS,Brazil,Domestic Producer Price before Subsidy,2030,0.0135412
+SS,Brazil,Regional Price Paid for Consumption,2030,0.0418857
+SS,Middle East,Domestic Producer Price before Subsidy,2030,0.0115418
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2030,0.119437
+SS,Middle East,Regional Price Paid for Consumption,2030,0.131553
+SS,USA,Domestic Producer Price before Subsidy,2030,0.0244682
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2030,0.0348098
+SS,USA,Regional Price Paid for Consumption,2030,0.0592367
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2035,0.1094
+SS,Africa_Western,Domestic Producer Price before Subsidy,2035,0.0126097
+SS,Africa_Western,Regional Price Paid for Consumption,2035,0.122018
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2035,0.0259815
+SS,Brazil,Domestic Producer Price before Subsidy,2035,0.0157153
+SS,Brazil,Regional Price Paid for Consumption,2035,0.0416967
+SS,Middle East,Domestic Producer Price before Subsidy,2035,0.0135412
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2035,0.116108
+SS,Middle East,Regional Price Paid for Consumption,2035,0.130415
+SS,USA,Domestic Producer Price before Subsidy,2035,0.0272863
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2035,0.0320806
+SS,USA,Regional Price Paid for Consumption,2035,0.059324
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2040,0.107863
+SS,Africa_Western,Domestic Producer Price before Subsidy,2040,0.0152162
+SS,Africa_Western,Regional Price Paid for Consumption,2040,0.123089
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2040,0.0229238
+SS,Brazil,Domestic Producer Price before Subsidy,2040,0.0184441
+SS,Brazil,Regional Price Paid for Consumption,2040,0.0413787
+SS,Middle East,Domestic Producer Price before Subsidy,2040,0.0161171
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2040,0.111712
+SS,Middle East,Regional Price Paid for Consumption,2040,0.128847
+SS,USA,Domestic Producer Price before Subsidy,2040,0.0308327
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2040,0.0283838
+SS,USA,Regional Price Paid for Consumption,2040,0.0591721
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2045,0.106445
+SS,Africa_Western,Domestic Producer Price before Subsidy,2045,0.0180491
+SS,Africa_Western,Regional Price Paid for Consumption,2045,0.124506
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2045,0.0196967
+SS,Brazil,Domestic Producer Price before Subsidy,2045,0.0214417
+SS,Brazil,Regional Price Paid for Consumption,2045,0.0411608
+SS,Middle East,Domestic Producer Price before Subsidy,2045,0.0189546
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2045,0.107804
+SS,Middle East,Regional Price Paid for Consumption,2045,0.128055
+SS,USA,Domestic Producer Price before Subsidy,2045,0.034938
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2045,0.0248542
+SS,USA,Regional Price Paid for Consumption,2045,0.0597453
+SS,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2050,0.106928
+SS,Africa_Western,Domestic Producer Price before Subsidy,2050,0.0191457
+SS,Africa_Western,Regional Price Paid for Consumption,2050,0.126086
+SS,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2050,0.0184699
+SS,Brazil,Domestic Producer Price before Subsidy,2050,0.0224495
+SS,Brazil,Regional Price Paid for Consumption,2050,0.0409461
+SS,Middle East,Domestic Producer Price before Subsidy,2050,0.0198869
+SS,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2050,0.106176
+SS,Middle East,Regional Price Paid for Consumption,2050,0.127474
+SS,USA,Domestic Producer Price before Subsidy,2050,0.036282
+SS,USA,Subsidy (Cereal Self-Sufficiency Credit),2050,0.0243232
+SS,USA,Regional Price Paid for Consumption,2050,0.0605583
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SC,Africa_Western,Domestic Producer Price before Subsidy,2015,0.1012
+SC,Africa_Western,Regional Price Paid for Consumption,2015,0.100364
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SC,Brazil,Domestic Producer Price before Subsidy,2015,0.047
+SC,Brazil,Regional Price Paid for Consumption,2015,0.0470941
+SC,Middle East,Domestic Producer Price before Subsidy,2015,0.0975
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SC,Middle East,Regional Price Paid for Consumption,2015,0.0646783
+SC,USA,Domestic Producer Price before Subsidy,2015,0.0628
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2015,0
+SC,USA,Regional Price Paid for Consumption,2015,0.062776
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SC,Africa_Western,Domestic Producer Price before Subsidy,2020,0.106029
+SC,Africa_Western,Regional Price Paid for Consumption,2020,0.105065
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SC,Brazil,Domestic Producer Price before Subsidy,2020,0.0462898
+SC,Brazil,Regional Price Paid for Consumption,2020,0.0463958
+SC,Middle East,Domestic Producer Price before Subsidy,2020,0.101493
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SC,Middle East,Regional Price Paid for Consumption,2020,0.0661923
+SC,USA,Domestic Producer Price before Subsidy,2020,0.063947
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2020,0
+SC,USA,Regional Price Paid for Consumption,2020,0.0639238
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2025,0.111781
+SC,Africa_Western,Domestic Producer Price before Subsidy,2025,0.00735388
+SC,Africa_Western,Regional Price Paid for Consumption,2025,0.11914
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2025,0.034158
+SC,Brazil,Domestic Producer Price before Subsidy,2025,0.00954992
+SC,Brazil,Regional Price Paid for Consumption,2025,0.0436965
+SC,Middle East,Domestic Producer Price before Subsidy,2025,0.00886338
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2025,0.121401
+SC,Middle East,Regional Price Paid for Consumption,2025,0.130307
+SC,USA,Domestic Producer Price before Subsidy,2025,0.0189794
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2025,0.0423946
+SC,USA,Regional Price Paid for Consumption,2025,0.0613411
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2030,0.115163
+SC,Africa_Western,Domestic Producer Price before Subsidy,2030,0.0088528
+SC,Africa_Western,Regional Price Paid for Consumption,2030,0.124022
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2030,0.0315349
+SC,Brazil,Domestic Producer Price before Subsidy,2030,0.0113682
+SC,Brazil,Regional Price Paid for Consumption,2030,0.0428927
+SC,Middle East,Domestic Producer Price before Subsidy,2030,0.0104175
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2030,0.122765
+SC,Middle East,Regional Price Paid for Consumption,2030,0.133336
+SC,USA,Domestic Producer Price before Subsidy,2030,0.022118
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2030,0.0399751
+SC,USA,Regional Price Paid for Consumption,2030,0.0620534
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2035,0.110963
+SC,Africa_Western,Domestic Producer Price before Subsidy,2035,0.0159981
+SC,Africa_Western,Regional Price Paid for Consumption,2035,0.126972
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2035,0.0234221
+SC,Brazil,Domestic Producer Price before Subsidy,2035,0.0194736
+SC,Brazil,Regional Price Paid for Consumption,2035,0.0429082
+SC,Middle East,Domestic Producer Price before Subsidy,2035,0.0186703
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2035,0.113309
+SC,Middle East,Regional Price Paid for Consumption,2035,0.132508
+SC,USA,Domestic Producer Price before Subsidy,2035,0.0342276
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2035,0.0292339
+SC,USA,Regional Price Paid for Consumption,2035,0.0634038
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2040,0.110259
+SC,Africa_Western,Domestic Producer Price before Subsidy,2040,0.0185411
+SC,Africa_Western,Regional Price Paid for Consumption,2040,0.128813
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2040,0.020703
+SC,Brazil,Domestic Producer Price before Subsidy,2040,0.0220512
+SC,Brazil,Regional Price Paid for Consumption,2040,0.0427774
+SC,Middle East,Domestic Producer Price before Subsidy,2040,0.0216227
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2040,0.109479
+SC,Middle East,Regional Price Paid for Consumption,2040,0.131724
+SC,USA,Domestic Producer Price before Subsidy,2040,0.0375828
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2040,0.026309
+SC,USA,Regional Price Paid for Consumption,2040,0.0638335
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2045,0.11238
+SC,Africa_Western,Domestic Producer Price before Subsidy,2045,0.019542
+SC,Africa_Western,Regional Price Paid for Consumption,2045,0.131934
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2045,0.0200625
+SC,Brazil,Domestic Producer Price before Subsidy,2045,0.0228234
+SC,Brazil,Regional Price Paid for Consumption,2045,0.0429144
+SC,Middle East,Domestic Producer Price before Subsidy,2045,0.0228359
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2045,0.108532
+SC,Middle East,Regional Price Paid for Consumption,2045,0.131954
+SC,USA,Domestic Producer Price before Subsidy,2045,0.0382547
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2045,0.0264842
+SC,USA,Regional Price Paid for Consumption,2045,0.0646843
+SC,Africa_Western,Subsidy (Cereal Self-Sufficiency Credit),2050,0.114353
+SC,Africa_Western,Domestic Producer Price before Subsidy,2050,0.0204427
+SC,Africa_Western,Regional Price Paid for Consumption,2050,0.134809
+SC,Brazil,Subsidy (Cereal Self-Sufficiency Credit),2050,0.0194702
+SC,Brazil,Domestic Producer Price before Subsidy,2050,0.0234963
+SC,Brazil,Regional Price Paid for Consumption,2050,0.0429985
+SC,Middle East,Domestic Producer Price before Subsidy,2050,0.0239834
+SC,Middle East,Subsidy (Cereal Self-Sufficiency Credit),2050,0.10793
+SC,Middle East,Regional Price Paid for Consumption,2050,0.132414
+SC,USA,Domestic Producer Price before Subsidy,2050,0.0395092
+SC,USA,Subsidy (Cereal Self-Sufficiency Credit),2050,0.0274884
+SC,USA,Regional Price Paid for Consumption,2050,0.0669421
