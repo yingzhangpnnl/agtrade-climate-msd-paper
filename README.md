@@ -1,5 +1,5 @@
 # agtrade-climate-msd-paper
-This is a public repo for paper "The Land, Water, and Energy Responses to Agricultural Trade and Climate Drivers" which is currently under review.
+This is a public repo for paper "Agriculture, bioenergy, and water implications of constrained cereal trade and climate change impacts" which is currently under review.
 For questions, please email ying.zhang at pnnl dot gov.
 
-Sep 28, 2021
+Jun 20, 2023
